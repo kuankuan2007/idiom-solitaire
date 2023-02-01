@@ -8,6 +8,6 @@ logo.ico是tkinter的图标
 
 ## 关于作者
 
-作者主页[宽宽2007](kuankuan2007.gitee.io "作者主页")
+作者主页[宽宽2007](https://kuankuan2007.gitee.io "作者主页")
 
 本项目在[文件夹同步: 自动同步两个文件夹的文件 (gitee.com)](https://gitee.com/kuankuan2007/folder-synchronization)上开源
